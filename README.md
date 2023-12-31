@@ -5,9 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onlinesmit" alt="onlinesmit" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://onlinesmit.github.io/MyPortfolio/](https://onlinesmit.github.io/MyPortfolio/)
+
+- 📫 How to reach me **onlinesmitg@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/smitkumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smitkumar01" height="30" width="40" /></a>
+<a href="https://instagram.com/online_smitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="online_smitt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/onlinesmitg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onlinesmitg" height="30" width="40" /></a>
 </p>
 
